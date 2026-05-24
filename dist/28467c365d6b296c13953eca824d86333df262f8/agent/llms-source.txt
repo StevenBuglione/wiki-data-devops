@@ -3,4 +3,5 @@
 > Cloud, Kubernetes, CI/CD, automation, infrastructure
 
 ## Pages
+- [Research DevOps starter content](/wiki/?s=devops&p=devops-starter-content)
 - [DevOps](/wiki/?s=devops&p=index)

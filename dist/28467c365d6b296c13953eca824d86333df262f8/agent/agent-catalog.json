@@ -7,6 +7,20 @@
   },
   "pages": [
     {
+      "id": "devops:devops-starter-content",
+      "title": "Research DevOps starter content",
+      "slug": "devops-starter-content",
+      "tags": [
+        "research"
+      ],
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      }
+    },
+    {
       "id": "devops:index",
       "title": "DevOps",
       "slug": "index",

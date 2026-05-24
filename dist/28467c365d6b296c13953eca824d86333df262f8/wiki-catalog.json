@@ -6,11 +6,16 @@
     "description": "Cloud, Kubernetes, CI/CD, automation, infrastructure"
   },
   "counts": {
-    "pages": 1,
-    "tags": 1,
+    "pages": 2,
+    "tags": 2,
     "assets": 0
   },
   "topLevelNavigation": [
+    {
+      "label": "Research DevOps starter content",
+      "slug": "devops-starter-content",
+      "count": 1
+    },
     {
       "label": "DevOps",
       "slug": "index",
@@ -19,9 +24,14 @@
   ],
   "recentlyUpdated": [
     {
+      "pageId": "devops:devops-starter-content",
+      "title": "Research DevOps starter content",
+      "updatedAt": "2026-05-24T19:35:12.523Z"
+    },
+    {
       "pageId": "devops:index",
       "title": "DevOps",
-      "updatedAt": "2026-05-24T19:15:35.093Z"
+      "updatedAt": "2026-05-24T19:35:12.524Z"
     }
   ]
 }

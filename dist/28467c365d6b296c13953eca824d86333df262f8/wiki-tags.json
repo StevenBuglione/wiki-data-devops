@@ -8,6 +8,13 @@
       "pages": [
         "devops:index"
       ]
+    },
+    {
+      "tag": "research",
+      "count": 1,
+      "pages": [
+        "devops:devops-starter-content"
+      ]
     }
   ]
 }
