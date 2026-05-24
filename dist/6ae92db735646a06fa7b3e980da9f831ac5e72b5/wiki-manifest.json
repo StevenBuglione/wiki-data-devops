@@ -3,10 +3,10 @@
   "source": {
     "id": "devops",
     "label": "DevOps",
-    "sourceCommit": "22946fca4bf2a37dba8b798b56eec8355ffa504d"
+    "sourceCommit": "6ae92db735646a06fa7b3e980da9f831ac5e72b5"
   },
-  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@22946fca4bf2a37dba8b798b56eec8355ffa504d/docs/",
-  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@22946fca4bf2a37dba8b798b56eec8355ffa504d/assets/",
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@6ae92db735646a06fa7b3e980da9f831ac5e72b5/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@6ae92db735646a06fa7b3e980da9f831ac5e72b5/assets/",
   "pages": [
     {
       "id": "devops:index",
@@ -30,7 +30,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-24T19:08:05.929Z",
+      "updatedAt": "2026-05-24T19:15:35.093Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-devops/edit/main/docs/index.md",
       "headings": [
         {

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "steve-wiki-agent-manifest/v1",
+  "sourceId": "devops",
+  "sourceCommit": "6ae92db735646a06fa7b3e980da9f831ac5e72b5",
+  "generatedAt": "2026-05-24T19:15:35.100Z",
+  "catalogUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@published/dist/6ae92db735646a06fa7b3e980da9f831ac5e72b5/agent/agent-catalog.json",
+  "chunksIndexUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@published/dist/6ae92db735646a06fa7b3e980da9f831ac5e72b5/agent/agent-chunks.index.json",
+  "llmsSourceUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@published/dist/6ae92db735646a06fa7b3e980da9f831ac5e72b5/agent/llms-source.txt",
+  "capabilities": [
+    "search",
+    "get_page",
+    "get_section",
+    "context_pack"
+  ]
+}
