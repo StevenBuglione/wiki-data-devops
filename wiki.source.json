@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "steve-wiki-source/v1",
+  "id": "devops",
+  "label": "DevOps",
+  "description": "Cloud, Kubernetes, CI/CD, automation, infrastructure",
+  "language": "en",
+  "contentRoot": "docs",
+  "assetsRoot": "assets",
+  "defaultPage": "index",
+  "repoUrl": "https://github.com/StevenBuglione/wiki-data-devops",
+  "editBaseUrl": "https://github.com/StevenBuglione/wiki-data-devops/edit/main/docs",
+  "facets": {
+    "area": [
+      "general"
+    ],
+    "status": [
+      "draft",
+      "active",
+      "deprecated",
+      "archived"
+    ],
+    "difficulty": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ]
+  }
+}
