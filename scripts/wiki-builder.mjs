@@ -46,17 +46,32 @@ function parseFrontmatter(markdown) {
 	const content = markdown.slice(markdown.indexOf("\n", end + 4) + 1);
 	const data = {};
 	let currentKey = "";
+	let currentArrayItem = undefined;
 	for (const line of raw.split("\n")) {
 		if (!line.trim()) continue;
+		const objectList = line.match(/^\s+-\s+([A-Za-z0-9_-]+):\s*(.*)$/);
+		if (objectList && currentKey) {
+			if (!Array.isArray(data[currentKey])) data[currentKey] = [];
+			currentArrayItem = { [objectList[1]]: parseScalar(objectList[2]) };
+			data[currentKey].push(currentArrayItem);
+			continue;
+		}
 		const list = line.match(/^\s+-\s+(.*)$/);
 		if (list && currentKey) {
 			if (!Array.isArray(data[currentKey])) data[currentKey] = [];
 			data[currentKey].push(parseScalar(list[1]));
+			currentArrayItem = undefined;
+			continue;
+		}
+		const nested = line.match(/^\s+([A-Za-z0-9_-]+):\s*(.*)$/);
+		if (nested && currentArrayItem) {
+			currentArrayItem[nested[1]] = parseScalar(nested[2]);
 			continue;
 		}
 		const match = line.match(/^([A-Za-z0-9_-]+):\s*(.*)$/);
 		if (!match) throw new Error(`invalid frontmatter line: ${line}`);
 		currentKey = match[1];
+		currentArrayItem = undefined;
 		data[currentKey] = match[2] ? parseScalar(match[2]) : [];
 	}
 	return { data, content };
