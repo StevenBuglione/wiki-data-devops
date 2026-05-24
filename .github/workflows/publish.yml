@@ -2,15 +2,30 @@ name: Publish wiki data
 on:
   push:
     branches: [main]
+    paths:
+      - "docs/**"
+      - "assets/**"
+      - "wiki.source.json"
+      - "scripts/**"
+      - "package.json"
   workflow_dispatch:
 permissions:
   contents: write
 jobs:
-  validate:
+  publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - run: npm install
       - run: npm run wiki:validate
+      - run: npm run wiki:build
+      - run: npm run wiki:publish-artifacts
+      - name: Purge jsDelivr pointers
+        run: |
+          curl -fsSL "https://purge.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@published/latest.json"
+          curl -fsSL "https://purge.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@published/latest-agent.json"

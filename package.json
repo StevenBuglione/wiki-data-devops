@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "wiki:validate": "node scripts/validate-wiki.mjs",
-    "wiki:build": "node scripts/build-wiki.mjs"
+    "wiki:build": "node scripts/build-wiki.mjs",
+    "wiki:publish-artifacts": "node scripts/publish-artifacts.mjs"
   },
   "devDependencies": {}
 }
