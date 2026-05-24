@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "steve-wiki-health/v1",
+  "sourceId": "devops",
+  "status": "ok",
+  "summary": {
+    "pages": 1,
+    "brokenInternalLinks": 0,
+    "missingTitles": 0,
+    "duplicateSlugs": 0,
+    "orphanPages": 0,
+    "largeAssets": 0,
+    "aiDrafts": 1,
+    "stalePages": 0
+  },
+  "issues": []
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "steve-wiki-manifest/v1",
+  "source": {
+    "id": "devops",
+    "label": "DevOps",
+    "sourceCommit": "22946fca4bf2a37dba8b798b56eec8355ffa504d"
+  },
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@22946fca4bf2a37dba8b798b56eec8355ffa504d/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@22946fca4bf2a37dba8b798b56eec8355ffa504d/assets/",
+  "pages": [
+    {
+      "id": "devops:index",
+      "sourceId": "devops",
+      "title": "DevOps",
+      "description": "Cloud, Kubernetes, CI/CD, automation, infrastructure",
+      "slug": "index",
+      "file": "index.md",
+      "tags": [
+        "index"
+      ],
+      "facets": {
+        "area": "general",
+        "status": "draft",
+        "difficulty": "beginner"
+      },
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      },
+      "aliases": [],
+      "updatedAt": "2026-05-24T19:08:05.929Z",
+      "editUrl": "https://github.com/StevenBuglione/wiki-data-devops/edit/main/docs/index.md",
+      "headings": [
+        {
+          "depth": 1,
+          "text": "DevOps",
+          "anchor": "devops"
+        }
+      ]
+    }
+  ],
+  "sidebar": [
+    {
+      "type": "category",
+      "label": "DevOps",
+      "items": [
+        "devops:index"
+      ]
+    }
+  ]
+}

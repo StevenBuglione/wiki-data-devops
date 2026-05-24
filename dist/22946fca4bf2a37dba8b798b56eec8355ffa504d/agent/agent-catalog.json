@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "steve-wiki-agent-catalog/v1",
+  "source": {
+    "id": "devops",
+    "label": "DevOps",
+    "description": "Cloud, Kubernetes, CI/CD, automation, infrastructure"
+  },
+  "pages": [
+    {
+      "id": "devops:index",
+      "title": "DevOps",
+      "slug": "index",
+      "tags": [
+        "index"
+      ],
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      }
+    }
+  ]
+}

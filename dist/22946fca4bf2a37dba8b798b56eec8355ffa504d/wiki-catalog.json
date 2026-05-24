@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "steve-wiki-catalog/v1",
+  "source": {
+    "id": "devops",
+    "label": "DevOps",
+    "description": "Cloud, Kubernetes, CI/CD, automation, infrastructure"
+  },
+  "counts": {
+    "pages": 1,
+    "tags": 1,
+    "assets": 0
+  },
+  "topLevelNavigation": [
+    {
+      "label": "DevOps",
+      "slug": "index",
+      "count": 1
+    }
+  ],
+  "recentlyUpdated": [
+    {
+      "pageId": "devops:index",
+      "title": "DevOps",
+      "updatedAt": "2026-05-24T19:08:05.929Z"
+    }
+  ]
+}

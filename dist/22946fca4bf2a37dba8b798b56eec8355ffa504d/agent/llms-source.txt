@@ -1,0 +1,6 @@
+# DevOps
+
+> Cloud, Kubernetes, CI/CD, automation, infrastructure
+
+## Pages
+- [DevOps](/wiki/?s=devops&p=index)

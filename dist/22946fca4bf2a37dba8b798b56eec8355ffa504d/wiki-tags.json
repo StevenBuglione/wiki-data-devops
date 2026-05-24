@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "steve-wiki-tags/v1",
+  "sourceId": "devops",
+  "tags": [
+    {
+      "tag": "index",
+      "count": 1,
+      "pages": [
+        "devops:index"
+      ]
+    }
+  ]
+}
