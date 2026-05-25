@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "steve-wiki-tags/v1",
+  "sourceId": "devops",
+  "tags": [
+    {
+      "tag": "backup",
+      "count": 1,
+      "pages": [
+        "devops:devops-operations-research-note-2026-05-25"
+      ]
+    },
+    {
+      "tag": "backup-restore",
+      "count": 1,
+      "pages": [
+        "devops:kubernetes-backup-restore-gitops-operations"
+      ]
+    },
+    {
+      "tag": "devops",
+      "count": 2,
+      "pages": [
+        "devops:devops-operations-research-note-2026-05-25",
+        "devops:kubernetes-backup-restore-gitops-operations"
+      ]
+    },
+    {
+      "tag": "disaster-recovery",
+      "count": 2,
+      "pages": [
+        "devops:devops-operations-research-note-2026-05-25",
+        "devops:kubernetes-backup-restore-gitops-operations"
+      ]
+    },
+    {
+      "tag": "etcd",
+      "count": 1,
+      "pages": [
+        "devops:devops-operations-research-note-2026-05-25"
+      ]
+    },
+    {
+      "tag": "gitops",
+      "count": 2,
+      "pages": [
+        "devops:devops-operations-research-note-2026-05-25",
+        "devops:kubernetes-backup-restore-gitops-operations"
+      ]
+    },
+    {
+      "tag": "index",
+      "count": 1,
+      "pages": [
+        "devops:index"
+      ]
+    },
+    {
+      "tag": "kubernetes",
+      "count": 2,
+      "pages": [
+        "devops:devops-operations-research-note-2026-05-25",
+        "devops:kubernetes-backup-restore-gitops-operations"
+      ]
+    },
+    {
+      "tag": "research",
+      "count": 3,
+      "pages": [
+        "devops:devops-operations-research-note-2026-05-25",
+        "devops:devops-starter-content",
+        "devops:kubernetes-backup-restore-gitops-operations"
+      ]
+    },
+    {
+      "tag": "restore",
+      "count": 1,
+      "pages": [
+        "devops:devops-operations-research-note-2026-05-25"
+      ]
+    },
+    {
+      "tag": "terraform",
+      "count": 1,
+      "pages": [
+        "devops:devops-operations-research-note-2026-05-25"
+      ]
+    },
+    {
+      "tag": "velero",
+      "count": 2,
+      "pages": [
+        "devops:devops-operations-research-note-2026-05-25",
+        "devops:kubernetes-backup-restore-gitops-operations"
+      ]
+    }
+  ]
+}

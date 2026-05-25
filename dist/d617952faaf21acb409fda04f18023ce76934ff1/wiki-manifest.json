@@ -1,0 +1,292 @@
+{
+  "schemaVersion": "steve-wiki-manifest/v1",
+  "source": {
+    "id": "devops",
+    "label": "DevOps",
+    "sourceCommit": "d617952faaf21acb409fda04f18023ce76934ff1"
+  },
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@d617952faaf21acb409fda04f18023ce76934ff1/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@d617952faaf21acb409fda04f18023ce76934ff1/assets/",
+  "pages": [
+    {
+      "id": "devops:devops-operations-research-note-2026-05-25",
+      "sourceId": "devops",
+      "title": "DevOps Operations Research Note 2026-05-25: Kubernetes Backup and Restore Operations",
+      "description": "Professional reference instructions for a Kubernetes-focused DevOps backup and restore page with decision guidance, reference architecture, restore runbooks, failure scenarios, operational checklists, common pitfalls, maintenance notes, source metadata, and inline claim citations.",
+      "slug": "devops-operations-research-note-2026-05-25",
+      "file": "devops-operations-research-note-2026-05-25.md",
+      "tags": [
+        "research",
+        "devops",
+        "kubernetes",
+        "backup",
+        "restore",
+        "disaster-recovery",
+        "velero",
+        "etcd",
+        "terraform",
+        "gitops"
+      ],
+      "facets": {
+        "area": "general",
+        "status": "active",
+        "difficulty": "intermediate"
+      },
+      "review": {
+        "review_status": "needs_review",
+        "human_reviewed": false,
+        "last_verified": "2026-05-25",
+        "confidence": "medium"
+      },
+      "aliases": [],
+      "updatedAt": "2026-05-25T04:50:57.016Z",
+      "editUrl": "https://github.com/StevenBuglione/wiki-data-devops/edit/main/docs/devops-operations-research-note-2026-05-25.md",
+      "headings": [
+        {
+          "depth": 1,
+          "text": "DevOps Operations Research Note 2026-05-25: Kubernetes Backup and Restore Operations",
+          "anchor": "devops-operations-research-note-2026-05-25-kubernetes-backup-and-restore-operations"
+        },
+        {
+          "depth": 2,
+          "text": "Summary",
+          "anchor": "summary"
+        },
+        {
+          "depth": 2,
+          "text": "Decision Matrix",
+          "anchor": "decision-matrix"
+        },
+        {
+          "depth": 2,
+          "text": "Reference Architecture",
+          "anchor": "reference-architecture"
+        },
+        {
+          "depth": 2,
+          "text": "Restore Runbook",
+          "anchor": "restore-runbook"
+        },
+        {
+          "depth": 2,
+          "text": "Failure Scenarios",
+          "anchor": "failure-scenarios"
+        },
+        {
+          "depth": 2,
+          "text": "Operational Checklist",
+          "anchor": "operational-checklist"
+        },
+        {
+          "depth": 2,
+          "text": "Common Pitfalls",
+          "anchor": "common-pitfalls"
+        },
+        {
+          "depth": 2,
+          "text": "Maintenance Notes",
+          "anchor": "maintenance-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Decision Matrix",
+          "anchor": "decision-matrix-1"
+        },
+        {
+          "depth": 2,
+          "text": "Reference Architecture",
+          "anchor": "reference-architecture-1"
+        },
+        {
+          "depth": 2,
+          "text": "Restore Runbook",
+          "anchor": "restore-runbook-1"
+        },
+        {
+          "depth": 2,
+          "text": "Failure Scenarios",
+          "anchor": "failure-scenarios-1"
+        },
+        {
+          "depth": 2,
+          "text": "Operational Checklist",
+          "anchor": "operational-checklist-1"
+        },
+        {
+          "depth": 2,
+          "text": "Sources",
+          "anchor": "sources"
+        }
+      ]
+    },
+    {
+      "id": "devops:devops-starter-content",
+      "sourceId": "devops",
+      "title": "Research DevOps starter content",
+      "description": "Create one concise starter wiki page that explains the DevOps source scope, suggested first topics, and how future research issues should be structured.",
+      "slug": "devops-starter-content",
+      "file": "devops-starter-content.md",
+      "tags": [
+        "research"
+      ],
+      "facets": {
+        "area": "general",
+        "status": "draft",
+        "difficulty": "intermediate"
+      },
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      },
+      "aliases": [],
+      "updatedAt": "2026-05-25T04:50:57.017Z",
+      "editUrl": "https://github.com/StevenBuglione/wiki-data-devops/edit/main/docs/devops-starter-content.md",
+      "headings": [
+        {
+          "depth": 1,
+          "text": "Research DevOps starter content",
+          "anchor": "research-devops-starter-content"
+        },
+        {
+          "depth": 2,
+          "text": "Research Notes",
+          "anchor": "research-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Sources",
+          "anchor": "sources"
+        }
+      ]
+    },
+    {
+      "id": "devops:index",
+      "sourceId": "devops",
+      "title": "DevOps",
+      "description": "Cloud, Kubernetes, CI/CD, automation, infrastructure",
+      "slug": "index",
+      "file": "index.md",
+      "tags": [
+        "index"
+      ],
+      "facets": {
+        "area": "general",
+        "status": "draft",
+        "difficulty": "beginner"
+      },
+      "review": {
+        "review_status": "ai_draft",
+        "human_reviewed": false,
+        "last_verified": "2026-05-24",
+        "confidence": "medium"
+      },
+      "aliases": [],
+      "updatedAt": "2026-05-25T04:50:57.017Z",
+      "editUrl": "https://github.com/StevenBuglione/wiki-data-devops/edit/main/docs/index.md",
+      "headings": [
+        {
+          "depth": 1,
+          "text": "DevOps",
+          "anchor": "devops"
+        }
+      ]
+    },
+    {
+      "id": "devops:kubernetes-backup-restore-gitops-operations",
+      "sourceId": "devops",
+      "title": "Kubernetes Backup and Restore Operations for GitOps Workloads",
+      "description": "Professional DevOps reference for designing and operating Kubernetes backup and restore across GitOps desired state, Velero backups, CSI snapshots, file-system backup, application data, secrets, and etcd disaster recovery.",
+      "slug": "kubernetes-backup-restore-gitops-operations",
+      "file": "kubernetes-backup-restore-gitops-operations.md",
+      "tags": [
+        "research",
+        "devops",
+        "kubernetes",
+        "disaster-recovery",
+        "backup-restore",
+        "gitops",
+        "velero"
+      ],
+      "facets": {
+        "area": "general",
+        "status": "active",
+        "difficulty": "intermediate"
+      },
+      "review": {
+        "review_status": "needs_review",
+        "human_reviewed": false,
+        "last_verified": "2026-05-25",
+        "confidence": "medium"
+      },
+      "aliases": [],
+      "updatedAt": "2026-05-25T04:50:57.018Z",
+      "editUrl": "https://github.com/StevenBuglione/wiki-data-devops/edit/main/docs/kubernetes-backup-restore-gitops-operations.md",
+      "headings": [
+        {
+          "depth": 1,
+          "text": "Kubernetes Backup and Restore Operations for GitOps Workloads",
+          "anchor": "kubernetes-backup-and-restore-operations-for-gitops-workloads"
+        },
+        {
+          "depth": 2,
+          "text": "Summary",
+          "anchor": "summary"
+        },
+        {
+          "depth": 2,
+          "text": "Decision Matrix",
+          "anchor": "decision-matrix"
+        },
+        {
+          "depth": 2,
+          "text": "Reference Architecture",
+          "anchor": "reference-architecture"
+        },
+        {
+          "depth": 2,
+          "text": "Restore Runbook",
+          "anchor": "restore-runbook"
+        },
+        {
+          "depth": 2,
+          "text": "Failure Scenarios",
+          "anchor": "failure-scenarios"
+        },
+        {
+          "depth": 2,
+          "text": "Operational Checklist",
+          "anchor": "operational-checklist"
+        },
+        {
+          "depth": 2,
+          "text": "Common Pitfalls",
+          "anchor": "common-pitfalls"
+        },
+        {
+          "depth": 2,
+          "text": "Maintenance Notes",
+          "anchor": "maintenance-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Sources",
+          "anchor": "sources"
+        }
+      ]
+    }
+  ],
+  "sidebar": [
+    {
+      "type": "category",
+      "label": "DevOps",
+      "items": [
+        "devops:devops-operations-research-note-2026-05-25",
+        "devops:devops-starter-content",
+        "devops:index",
+        "devops:kubernetes-backup-restore-gitops-operations"
+      ]
+    }
+  ]
+}

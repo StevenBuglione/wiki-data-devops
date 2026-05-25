@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "steve-wiki-pagefind-ready/v1",
+  "sourceId": "devops",
+  "note": "Pagefind-ready metadata placeholder for V1; full index generation is wired next.",
+  "pages": [
+    {
+      "id": "devops:devops-operations-research-note-2026-05-25",
+      "title": "DevOps Operations Research Note 2026-05-25: Kubernetes Backup and Restore Operations",
+      "filters": {
+        "source": "devops",
+        "area": "general",
+        "status": "active",
+        "difficulty": "intermediate",
+        "tags": [
+          "research",
+          "devops",
+          "kubernetes",
+          "backup",
+          "restore",
+          "disaster-recovery",
+          "velero",
+          "etcd",
+          "terraform",
+          "gitops"
+        ]
+      }
+    },
+    {
+      "id": "devops:devops-starter-content",
+      "title": "Research DevOps starter content",
+      "filters": {
+        "source": "devops",
+        "area": "general",
+        "status": "draft",
+        "difficulty": "intermediate",
+        "tags": [
+          "research"
+        ]
+      }
+    },
+    {
+      "id": "devops:index",
+      "title": "DevOps",
+      "filters": {
+        "source": "devops",
+        "area": "general",
+        "status": "draft",
+        "difficulty": "beginner",
+        "tags": [
+          "index"
+        ]
+      }
+    },
+    {
+      "id": "devops:kubernetes-backup-restore-gitops-operations",
+      "title": "Kubernetes Backup and Restore Operations for GitOps Workloads",
+      "filters": {
+        "source": "devops",
+        "area": "general",
+        "status": "active",
+        "difficulty": "intermediate",
+        "tags": [
+          "research",
+          "devops",
+          "kubernetes",
+          "disaster-recovery",
+          "backup-restore",
+          "gitops",
+          "velero"
+        ]
+      }
+    }
+  ]
+}
