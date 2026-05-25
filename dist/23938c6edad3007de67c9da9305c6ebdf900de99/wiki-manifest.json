@@ -3,10 +3,10 @@
   "source": {
     "id": "devops",
     "label": "DevOps",
-    "sourceCommit": "0b849fd77d990719d74975dd6b60c99f28a26b0b"
+    "sourceCommit": "23938c6edad3007de67c9da9305c6ebdf900de99"
   },
-  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@0b849fd77d990719d74975dd6b60c99f28a26b0b/docs/",
-  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@0b849fd77d990719d74975dd6b60c99f28a26b0b/assets/",
+  "contentBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@23938c6edad3007de67c9da9305c6ebdf900de99/docs/",
+  "assetsBaseUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@23938c6edad3007de67c9da9305c6ebdf900de99/assets/",
   "pages": [
     {
       "id": "devops:devops-starter-content",
@@ -30,7 +30,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T10:18:43.180Z",
+      "updatedAt": "2026-05-25T17:32:09.739Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-devops/edit/main/docs/devops-starter-content.md",
       "headings": [
         {
@@ -72,7 +72,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T10:18:43.181Z",
+      "updatedAt": "2026-05-25T17:32:09.740Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-devops/edit/main/docs/index.md",
       "headings": [
         {
@@ -110,7 +110,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T10:18:43.181Z",
+      "updatedAt": "2026-05-25T17:32:09.740Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-devops/edit/main/docs/kubernetes-backup-restore-gitops-operations.md",
       "headings": [
         {
@@ -169,7 +169,7 @@
       "id": "devops:kubernetes-backup-restore-operations",
       "sourceId": "devops",
       "title": "Kubernetes Backup and Restore Operations",
-      "description": "A practitioner-oriented reference for Kubernetes backup and restore design, decision guidance, restore runbooks, failure scenarios, testing checklists, and maintenance cadence.",
+      "description": "Professional DevOps reference for Kubernetes backup architecture, restore decision-making, runbooks, storage-driver caveats, RPO/RTO examples, operational checks, and maintenance cadence.",
       "slug": "kubernetes-backup-restore-operations",
       "file": "kubernetes-backup-restore-operations.md",
       "tags": [
@@ -177,9 +177,8 @@
         "devops",
         "kubernetes",
         "backup",
-        "disaster-recovery",
-        "velero",
-        "storage"
+        "restore",
+        "disaster-recovery"
       ],
       "facets": {
         "area": "general",
@@ -193,7 +192,7 @@
         "confidence": "medium"
       },
       "aliases": [],
-      "updatedAt": "2026-05-25T10:18:43.182Z",
+      "updatedAt": "2026-05-25T17:32:09.741Z",
       "editUrl": "https://github.com/StevenBuglione/wiki-data-devops/edit/main/docs/kubernetes-backup-restore-operations.md",
       "headings": [
         {

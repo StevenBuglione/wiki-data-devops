@@ -63,9 +63,8 @@
         "devops",
         "kubernetes",
         "backup",
-        "disaster-recovery",
-        "velero",
-        "storage"
+        "restore",
+        "disaster-recovery"
       ],
       "review": {
         "review_status": "needs_review",

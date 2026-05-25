@@ -1,9 +1,9 @@
 {
   "schemaVersion": "steve-wiki-latest-agent/v1",
   "sourceId": "devops",
-  "sourceCommit": "0b849fd77d990719d74975dd6b60c99f28a26b0b",
-  "generatedAt": "2026-05-25T10:18:43.189Z",
-  "agentManifestUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@published/dist/0b849fd77d990719d74975dd6b60c99f28a26b0b/agent/agent-manifest.json",
-  "chunksIndexUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@published/dist/0b849fd77d990719d74975dd6b60c99f28a26b0b/agent/agent-chunks.index.json",
-  "llmsSourceUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@published/dist/0b849fd77d990719d74975dd6b60c99f28a26b0b/agent/llms-source.txt"
+  "sourceCommit": "23938c6edad3007de67c9da9305c6ebdf900de99",
+  "generatedAt": "2026-05-25T17:32:09.748Z",
+  "agentManifestUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@published/dist/23938c6edad3007de67c9da9305c6ebdf900de99/agent/agent-manifest.json",
+  "chunksIndexUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@published/dist/23938c6edad3007de67c9da9305c6ebdf900de99/agent/agent-chunks.index.json",
+  "llmsSourceUrl": "https://cdn.jsdelivr.net/gh/StevenBuglione/wiki-data-devops@published/dist/23938c6edad3007de67c9da9305c6ebdf900de99/agent/llms-source.txt"
 }

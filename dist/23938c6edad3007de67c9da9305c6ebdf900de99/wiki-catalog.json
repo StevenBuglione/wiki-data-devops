@@ -36,22 +36,22 @@
     {
       "pageId": "devops:devops-starter-content",
       "title": "Research DevOps starter content",
-      "updatedAt": "2026-05-25T10:18:43.180Z"
+      "updatedAt": "2026-05-25T17:32:09.739Z"
     },
     {
       "pageId": "devops:index",
       "title": "DevOps",
-      "updatedAt": "2026-05-25T10:18:43.181Z"
+      "updatedAt": "2026-05-25T17:32:09.740Z"
     },
     {
       "pageId": "devops:kubernetes-backup-restore-gitops-operations",
       "title": "Kubernetes Backup and Restore Operations for GitOps Workloads",
-      "updatedAt": "2026-05-25T10:18:43.181Z"
+      "updatedAt": "2026-05-25T17:32:09.740Z"
     },
     {
       "pageId": "devops:kubernetes-backup-restore-operations",
       "title": "Kubernetes Backup and Restore Operations",
-      "updatedAt": "2026-05-25T10:18:43.182Z"
+      "updatedAt": "2026-05-25T17:32:09.741Z"
     }
   ]
 }

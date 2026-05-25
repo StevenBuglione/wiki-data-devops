@@ -64,7 +64,7 @@
       ]
     },
     {
-      "tag": "storage",
+      "tag": "restore",
       "count": 1,
       "pages": [
         "devops:kubernetes-backup-restore-operations"
@@ -72,10 +72,9 @@
     },
     {
       "tag": "velero",
-      "count": 2,
+      "count": 1,
       "pages": [
-        "devops:kubernetes-backup-restore-gitops-operations",
-        "devops:kubernetes-backup-restore-operations"
+        "devops:kubernetes-backup-restore-gitops-operations"
       ]
     }
   ]
