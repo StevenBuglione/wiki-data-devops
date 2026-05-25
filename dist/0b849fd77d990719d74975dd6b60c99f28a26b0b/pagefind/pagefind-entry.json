@@ -47,6 +47,25 @@
           "velero"
         ]
       }
+    },
+    {
+      "id": "devops:kubernetes-backup-restore-operations",
+      "title": "Kubernetes Backup and Restore Operations",
+      "filters": {
+        "source": "devops",
+        "area": "general",
+        "status": "active",
+        "difficulty": "intermediate",
+        "tags": [
+          "research",
+          "devops",
+          "kubernetes",
+          "backup",
+          "disaster-recovery",
+          "velero",
+          "storage"
+        ]
+      }
     }
   ]
 }

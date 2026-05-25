@@ -6,8 +6,8 @@
     "description": "Cloud, Kubernetes, CI/CD, automation, infrastructure"
   },
   "counts": {
-    "pages": 3,
-    "tags": 8,
+    "pages": 4,
+    "tags": 10,
     "assets": 0
   },
   "topLevelNavigation": [
@@ -25,23 +25,33 @@
       "label": "Kubernetes Backup and Restore Operations for GitOps Workloads",
       "slug": "kubernetes-backup-restore-gitops-operations",
       "count": 1
+    },
+    {
+      "label": "Kubernetes Backup and Restore Operations",
+      "slug": "kubernetes-backup-restore-operations",
+      "count": 1
     }
   ],
   "recentlyUpdated": [
     {
       "pageId": "devops:devops-starter-content",
       "title": "Research DevOps starter content",
-      "updatedAt": "2026-05-25T04:58:58.550Z"
+      "updatedAt": "2026-05-25T10:18:43.180Z"
     },
     {
       "pageId": "devops:index",
       "title": "DevOps",
-      "updatedAt": "2026-05-25T04:58:58.550Z"
+      "updatedAt": "2026-05-25T10:18:43.181Z"
     },
     {
       "pageId": "devops:kubernetes-backup-restore-gitops-operations",
       "title": "Kubernetes Backup and Restore Operations for GitOps Workloads",
-      "updatedAt": "2026-05-25T04:58:58.551Z"
+      "updatedAt": "2026-05-25T10:18:43.181Z"
+    },
+    {
+      "pageId": "devops:kubernetes-backup-restore-operations",
+      "title": "Kubernetes Backup and Restore Operations",
+      "updatedAt": "2026-05-25T10:18:43.182Z"
     }
   ]
 }

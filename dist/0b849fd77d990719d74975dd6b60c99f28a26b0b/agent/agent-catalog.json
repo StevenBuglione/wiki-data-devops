@@ -53,6 +53,26 @@
         "last_verified": "2026-05-25",
         "confidence": "medium"
       }
+    },
+    {
+      "id": "devops:kubernetes-backup-restore-operations",
+      "title": "Kubernetes Backup and Restore Operations",
+      "slug": "kubernetes-backup-restore-operations",
+      "tags": [
+        "research",
+        "devops",
+        "kubernetes",
+        "backup",
+        "disaster-recovery",
+        "velero",
+        "storage"
+      ],
+      "review": {
+        "review_status": "needs_review",
+        "human_reviewed": false,
+        "last_verified": "2026-05-25",
+        "confidence": "medium"
+      }
     }
   ]
 }

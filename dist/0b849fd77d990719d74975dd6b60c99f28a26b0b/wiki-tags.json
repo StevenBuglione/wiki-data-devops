@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "steve-wiki-tags/v1",
+  "sourceId": "devops",
+  "tags": [
+    {
+      "tag": "backup",
+      "count": 1,
+      "pages": [
+        "devops:kubernetes-backup-restore-operations"
+      ]
+    },
+    {
+      "tag": "backup-restore",
+      "count": 1,
+      "pages": [
+        "devops:kubernetes-backup-restore-gitops-operations"
+      ]
+    },
+    {
+      "tag": "devops",
+      "count": 2,
+      "pages": [
+        "devops:kubernetes-backup-restore-gitops-operations",
+        "devops:kubernetes-backup-restore-operations"
+      ]
+    },
+    {
+      "tag": "disaster-recovery",
+      "count": 2,
+      "pages": [
+        "devops:kubernetes-backup-restore-gitops-operations",
+        "devops:kubernetes-backup-restore-operations"
+      ]
+    },
+    {
+      "tag": "gitops",
+      "count": 1,
+      "pages": [
+        "devops:kubernetes-backup-restore-gitops-operations"
+      ]
+    },
+    {
+      "tag": "index",
+      "count": 1,
+      "pages": [
+        "devops:index"
+      ]
+    },
+    {
+      "tag": "kubernetes",
+      "count": 2,
+      "pages": [
+        "devops:kubernetes-backup-restore-gitops-operations",
+        "devops:kubernetes-backup-restore-operations"
+      ]
+    },
+    {
+      "tag": "research",
+      "count": 3,
+      "pages": [
+        "devops:devops-starter-content",
+        "devops:kubernetes-backup-restore-gitops-operations",
+        "devops:kubernetes-backup-restore-operations"
+      ]
+    },
+    {
+      "tag": "storage",
+      "count": 1,
+      "pages": [
+        "devops:kubernetes-backup-restore-operations"
+      ]
+    },
+    {
+      "tag": "velero",
+      "count": 2,
+      "pages": [
+        "devops:kubernetes-backup-restore-gitops-operations",
+        "devops:kubernetes-backup-restore-operations"
+      ]
+    }
+  ]
+}

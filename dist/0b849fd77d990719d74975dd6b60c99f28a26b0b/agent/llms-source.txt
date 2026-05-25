@@ -6,3 +6,4 @@
 - [Research DevOps starter content](/wiki/?s=devops&p=devops-starter-content)
 - [DevOps](/wiki/?s=devops&p=index)
 - [Kubernetes Backup and Restore Operations for GitOps Workloads](/wiki/?s=devops&p=kubernetes-backup-restore-gitops-operations)
+- [Kubernetes Backup and Restore Operations](/wiki/?s=devops&p=kubernetes-backup-restore-operations)
