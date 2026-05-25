@@ -3,7 +3,6 @@
 > Cloud, Kubernetes, CI/CD, automation, infrastructure
 
 ## Pages
-- [DevOps Operations Research Note 2026-05-25: Kubernetes Backup and Restore Operations](/wiki/?s=devops&p=devops-operations-research-note-2026-05-25)
 - [Research DevOps starter content](/wiki/?s=devops&p=devops-starter-content)
 - [DevOps](/wiki/?s=devops&p=index)
 - [Kubernetes Backup and Restore Operations for GitOps Workloads](/wiki/?s=devops&p=kubernetes-backup-restore-gitops-operations)

@@ -7,29 +7,6 @@
   },
   "pages": [
     {
-      "id": "devops:devops-operations-research-note-2026-05-25",
-      "title": "DevOps Operations Research Note 2026-05-25: Kubernetes Backup and Restore Operations",
-      "slug": "devops-operations-research-note-2026-05-25",
-      "tags": [
-        "research",
-        "devops",
-        "kubernetes",
-        "backup",
-        "restore",
-        "disaster-recovery",
-        "velero",
-        "etcd",
-        "terraform",
-        "gitops"
-      ],
-      "review": {
-        "review_status": "needs_review",
-        "human_reviewed": false,
-        "last_verified": "2026-05-25",
-        "confidence": "medium"
-      }
-    },
-    {
       "id": "devops:devops-starter-content",
       "title": "Research DevOps starter content",
       "slug": "devops-starter-content",

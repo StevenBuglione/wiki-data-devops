@@ -3,13 +3,6 @@
   "sourceId": "devops",
   "tags": [
     {
-      "tag": "backup",
-      "count": 1,
-      "pages": [
-        "devops:devops-operations-research-note-2026-05-25"
-      ]
-    },
-    {
       "tag": "backup-restore",
       "count": 1,
       "pages": [
@@ -18,32 +11,22 @@
     },
     {
       "tag": "devops",
-      "count": 2,
+      "count": 1,
       "pages": [
-        "devops:devops-operations-research-note-2026-05-25",
         "devops:kubernetes-backup-restore-gitops-operations"
       ]
     },
     {
       "tag": "disaster-recovery",
-      "count": 2,
+      "count": 1,
       "pages": [
-        "devops:devops-operations-research-note-2026-05-25",
         "devops:kubernetes-backup-restore-gitops-operations"
       ]
     },
     {
-      "tag": "etcd",
+      "tag": "gitops",
       "count": 1,
       "pages": [
-        "devops:devops-operations-research-note-2026-05-25"
-      ]
-    },
-    {
-      "tag": "gitops",
-      "count": 2,
-      "pages": [
-        "devops:devops-operations-research-note-2026-05-25",
         "devops:kubernetes-backup-restore-gitops-operations"
       ]
     },
@@ -56,40 +39,23 @@
     },
     {
       "tag": "kubernetes",
-      "count": 2,
+      "count": 1,
       "pages": [
-        "devops:devops-operations-research-note-2026-05-25",
         "devops:kubernetes-backup-restore-gitops-operations"
       ]
     },
     {
       "tag": "research",
-      "count": 3,
+      "count": 2,
       "pages": [
-        "devops:devops-operations-research-note-2026-05-25",
         "devops:devops-starter-content",
         "devops:kubernetes-backup-restore-gitops-operations"
       ]
     },
     {
-      "tag": "restore",
-      "count": 1,
-      "pages": [
-        "devops:devops-operations-research-note-2026-05-25"
-      ]
-    },
-    {
-      "tag": "terraform",
-      "count": 1,
-      "pages": [
-        "devops:devops-operations-research-note-2026-05-25"
-      ]
-    },
-    {
       "tag": "velero",
-      "count": 2,
+      "count": 1,
       "pages": [
-        "devops:devops-operations-research-note-2026-05-25",
         "devops:kubernetes-backup-restore-gitops-operations"
       ]
     }
